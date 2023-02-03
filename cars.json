@@ -1,0 +1,17 @@
+[
+    {"model": "GT",
+    "license": "1234"
+    },
+    {
+    "model": "Coupe",
+    "license": "123"
+    },
+    {
+    "model": "Sedan",
+    "license": "12"
+    },
+    {
+    "model": "S",
+    "license": "1"
+    }
+]
